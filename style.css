@@ -1,0 +1,58 @@
+li{
+	display: inline-block;
+	margin-right: 30px;
+}
+.active{
+	color: red;
+}
+.logo{
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.banner {
+	width: 100%;	
+	margin-left : 30px;
+}
+div	{
+	display: inline-block;
+	margin-left: 30px;
+}
+nav	{
+	display: inline-block;
+}
+.featured{
+	display: block;
+	margin-left:30px;
+	font-family: roboto;
+}
+h3 {
+	margin-top: 100px;
+	display: inline-block;
+}
+article{
+	margin-left: 30px;
+	max-width: 570px;
+}
+.hand{
+	max-width: 100px;
+	display: inline-block;
+}
+p {
+	display: inline-block;
+	max-width: 100%;
+}
+.device{
+	max-width: 100px;
+	display: inline-block;
+}
+.fb	{
+	display: block;
+	max-width: 14px;
+	margin-left: 30px;
+}
+.youtube {
+	display: inline-block;
+	max-width: 14px;
+	margin-left: 30px;
+}

@@ -1,0 +1,55 @@
+<!doctype HTML>
+<HTML>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="stylesheet" type="text/css" href="reset.css">
+		<title> MY PAGE </title>
+	</Head>
+	<body>
+		<header> 
+		<div class="logo"> logo </div>
+		<nav>
+		<ul>
+			<li class="active">  მთავარი </li>
+			<li> სიახლე </li>
+			<li> კონტაქტი </li>
+		</ul>
+	</nav>
+	</header>
+	<div class="banner">
+		<img src="img/banner1.jpg">
+	</div>
+		<p class="featured"> FEATURED | view all featured media </p>
+	<article class="border1">
+		<h1 class="title1"> RESPONSIVE WEB DESIGN </h1>
+		<img  class="hand" src="img/responsive web design.svg">
+		<p class="comment1">approach that suggests that design<br>
+		and development should respond to <br>
+		the user's behavior and environment<br>
+		based on screen size, platform and<br>
+		orientation.
+		</p>		
+	</article>
+	<article class="border2">
+		<h1 class="title2"> APP DEVELOPMENT </h1>
+		<img  class="device" src="img/app development.svg">
+		<p class="comment2">Mobile application development is<br>
+		the process of making or creating a<br>
+		mobile application to run on various<br>
+		mobile platforms. A mobile platform<br>
+		is a mobile operating system.<br>
+		</p>		
+	</article>
+	<article>
+		<div>
+		<a href="https://www.facebook.com/" target="bank">
+		<img class="fb" src="img/facebook logo.svg">
+		</a>		
+		<a href="https://www.youtube.com/" target="bank">
+		<img  class="youtube" src="img/youtube logo.svg">
+		</a>
+		</div>	
+	</article>
+	</body>
+</html>
